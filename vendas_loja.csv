@@ -1,0 +1,1001 @@
+Produto,Cidade,Quantidade,Data,Preco_unitario
+Monitor 24pol,Campinas,5,2025-06-29 14:01:26.596887,800.0
+Headset RGB,Assis,1,2025-09-03 14:01:26.596915,250.0
+Teclado Mecânico,Bauru,2,2024-12-11 14:01:26.596926,350.0
+Headset RGB,Marília,4,2025-09-05 14:01:26.596932,250.0
+Headset RGB,Bauru,2,2025-02-25 14:01:26.596937,250.0
+Mouse Sem Fio,Bauru,2,2025-04-24 14:01:26.596943,120.0
+Teclado Mecânico,Campinas,1,2025-08-29 14:01:26.596947,350.0
+Teclado Mecânico,Assis,1,2025-01-10 14:01:26.596951,350.0
+Teclado Mecânico,São Paulo,1,2025-07-15 14:01:26.596956,350.0
+Headset RGB,Assis,1,2025-07-10 14:01:26.596961,250.0
+Monitor 24pol,Assis,5,2025-10-07 14:01:26.596965,800.0
+Teclado Mecânico,Bauru,1,2025-06-01 14:01:26.596970,350.0
+Cadeira Ergonômica,Assis,5,2025-07-10 14:01:26.596975,1200.0
+Headset RGB,Marília,5,2025-08-29 14:01:26.596979,250.0
+Mouse Sem Fio,Bauru,1,2025-11-05 14:01:26.596983,120.0
+Monitor 24pol,Marília,3,2025-02-23 14:01:26.596987,800.0
+Cadeira Ergonômica,São Paulo,4,2025-05-17 14:01:26.596992,1200.0
+Cadeira Ergonômica,Bauru,2,2025-02-10 14:01:26.596997,1200.0
+Mouse Sem Fio,São Paulo,5,2025-03-01 14:01:26.597001,120.0
+Monitor 24pol,Bauru,4,2024-11-27 14:01:26.597005,800.0
+Headset RGB,Campinas,3,2025-01-07 14:01:26.597010,250.0
+Notebook Gamer,Assis,2,2025-09-11 14:01:26.597014,4500.0
+Monitor 24pol,Campinas,2,2025-11-08 14:01:26.597019,800.0
+Mouse Sem Fio,São Paulo,5,2024-11-28 14:01:26.597023,120.0
+Cadeira Ergonômica,Assis,1,2025-07-29 14:01:26.597027,1200.0
+Headset RGB,Bauru,3,2025-10-06 14:01:26.597031,250.0
+Monitor 24pol,Assis,5,2025-11-20 14:01:26.597036,800.0
+Notebook Gamer,Marília,3,2025-02-06 14:01:26.597040,4500.0
+Notebook Gamer,Assis,1,2025-11-17 14:01:26.597045,4500.0
+Teclado Mecânico,Marília,1,2025-10-06 14:01:26.597049,350.0
+Teclado Mecânico,Assis,5,2025-04-19 14:01:26.597054,350.0
+Mouse Sem Fio,Marília,1,2025-11-17 14:01:26.597058,120.0
+Monitor 24pol,São Paulo,4,2025-07-25 14:01:26.597062,800.0
+Monitor 24pol,Campinas,2,2025-05-27 14:01:26.597066,800.0
+Cadeira Ergonômica,Bauru,5,2025-08-18 14:01:26.597071,1200.0
+Cadeira Ergonômica,Assis,3,2025-06-15 14:01:26.597075,1200.0
+Cadeira Ergonômica,Campinas,4,2025-01-21 14:01:26.597080,1200.0
+Teclado Mecânico,Bauru,5,2025-07-10 14:01:26.597084,350.0
+Monitor 24pol,Bauru,1,2025-07-05 14:01:26.597089,800.0
+Monitor 24pol,Marília,1,2025-01-06 14:01:26.597093,800.0
+Notebook Gamer,São Paulo,1,2024-12-14 14:01:26.597097,4500.0
+Teclado Mecânico,São Paulo,1,2025-08-17 14:01:26.597101,350.0
+Headset RGB,Campinas,3,2024-12-29 14:01:26.597106,250.0
+Teclado Mecânico,São Paulo,4,2025-11-03 14:01:26.597110,350.0
+Headset RGB,Assis,2,2025-07-21 14:01:26.597114,250.0
+Notebook Gamer,São Paulo,3,2025-10-04 14:01:26.597118,4500.0
+Mouse Sem Fio,Campinas,3,2025-04-22 14:01:26.597123,120.0
+Monitor 24pol,São Paulo,2,2025-01-14 14:01:26.597127,800.0
+Notebook Gamer,Assis,2,2025-10-29 14:01:26.597131,4500.0
+Monitor 24pol,Marília,1,2025-10-29 14:01:26.597135,800.0
+Cadeira Ergonômica,Campinas,3,2025-04-17 14:01:26.597140,1200.0
+Mouse Sem Fio,Marília,5,2025-01-15 14:01:26.597144,120.0
+Mouse Sem Fio,Marília,2,2025-08-13 14:01:26.597148,120.0
+Notebook Gamer,Marília,2,2025-05-02 14:01:26.597153,4500.0
+Mouse Sem Fio,Bauru,4,2025-02-26 14:01:26.597158,120.0
+Headset RGB,Bauru,5,2025-04-08 14:01:26.597162,250.0
+Mouse Sem Fio,Marília,5,2025-01-31 14:01:26.597166,120.0
+Monitor 24pol,Campinas,2,2025-08-17 14:01:26.597171,800.0
+Monitor 24pol,Assis,1,2024-12-27 14:01:26.597175,800.0
+Monitor 24pol,Assis,4,2025-08-15 14:01:26.597180,800.0
+Monitor 24pol,São Paulo,5,2025-01-01 14:01:26.597184,800.0
+Headset RGB,Campinas,2,2025-05-30 14:01:26.597188,250.0
+Teclado Mecânico,Bauru,5,2025-06-04 14:01:26.597192,350.0
+Cadeira Ergonômica,Marília,4,2025-01-23 14:01:26.597196,1200.0
+Notebook Gamer,São Paulo,4,2025-11-02 14:01:26.597200,4500.0
+Monitor 24pol,Assis,3,2025-02-21 14:01:26.597205,800.0
+Mouse Sem Fio,Bauru,2,2025-05-28 14:01:26.597210,120.0
+Monitor 24pol,Bauru,4,2025-09-27 14:01:26.597214,800.0
+Mouse Sem Fio,Marília,3,2025-06-07 14:01:26.597219,120.0
+Cadeira Ergonômica,Assis,3,2025-08-23 14:01:26.597224,1200.0
+Cadeira Ergonômica,Campinas,5,2024-12-08 14:01:26.597228,1200.0
+Cadeira Ergonômica,Bauru,5,2025-04-22 14:01:26.597232,1200.0
+Mouse Sem Fio,Marília,3,2025-11-04 14:01:26.597236,120.0
+Monitor 24pol,Campinas,5,2025-08-10 14:01:26.597240,800.0
+Cadeira Ergonômica,Assis,4,2025-09-07 14:01:26.597245,1200.0
+Headset RGB,Bauru,1,2025-09-25 14:01:26.597249,250.0
+Mouse Sem Fio,Campinas,4,2025-01-12 14:01:26.597253,120.0
+Mouse Sem Fio,Campinas,3,2025-03-27 14:01:26.597259,120.0
+Monitor 24pol,Campinas,3,2024-12-07 14:01:26.597264,800.0
+Mouse Sem Fio,Bauru,4,2025-10-24 14:01:26.597268,120.0
+Mouse Sem Fio,Bauru,5,2025-08-14 14:01:26.597273,120.0
+Cadeira Ergonômica,São Paulo,5,2025-07-31 14:01:26.597277,1200.0
+Monitor 24pol,Assis,3,2025-02-21 14:01:26.597281,800.0
+Cadeira Ergonômica,Marília,2,2025-05-16 14:01:26.597286,1200.0
+Cadeira Ergonômica,Campinas,5,2025-05-13 14:01:26.597290,1200.0
+Monitor 24pol,São Paulo,4,2025-06-07 14:01:26.597294,800.0
+Notebook Gamer,Marília,5,2025-01-12 14:01:26.597305,4500.0
+Cadeira Ergonômica,São Paulo,4,2025-01-02 14:01:26.597310,1200.0
+Headset RGB,Bauru,3,2025-03-19 14:01:26.597314,250.0
+Headset RGB,Campinas,5,2025-11-12 14:01:26.597318,250.0
+Mouse Sem Fio,Marília,4,2025-09-30 14:01:26.597322,120.0
+Headset RGB,Marília,3,2025-09-08 14:01:26.597327,250.0
+Mouse Sem Fio,Marília,2,2025-08-03 14:01:26.597331,120.0
+Notebook Gamer,Marília,4,2025-02-26 14:01:26.597336,4500.0
+Monitor 24pol,Marília,2,2025-06-22 14:01:26.597341,800.0
+Monitor 24pol,São Paulo,2,2025-07-25 14:01:26.597345,800.0
+Monitor 24pol,Campinas,1,2024-12-03 14:01:26.597350,800.0
+Headset RGB,Bauru,5,2025-11-23 14:01:26.597354,250.0
+Notebook Gamer,Bauru,4,2025-05-11 14:01:26.597359,4500.0
+Headset RGB,Bauru,2,2024-12-07 14:01:26.597363,250.0
+Headset RGB,Bauru,1,2024-11-30 14:01:26.597367,250.0
+Notebook Gamer,São Paulo,3,2025-01-30 14:01:26.597372,4500.0
+Notebook Gamer,Assis,4,2025-09-15 14:01:26.597376,4500.0
+Notebook Gamer,Campinas,2,2024-12-20 14:01:26.597380,4500.0
+Notebook Gamer,Marília,5,2025-05-15 14:01:26.597385,4500.0
+Monitor 24pol,Assis,1,2025-02-15 14:01:26.597389,800.0
+Teclado Mecânico,Bauru,2,2025-11-04 14:01:26.597394,350.0
+Teclado Mecânico,Assis,5,2025-03-22 14:01:26.597398,350.0
+Notebook Gamer,Campinas,2,2025-07-14 14:01:26.597402,4500.0
+Teclado Mecânico,Marília,4,2025-09-05 14:01:26.597407,350.0
+Teclado Mecânico,Marília,4,2025-01-14 14:01:26.597412,350.0
+Notebook Gamer,Campinas,4,2025-08-03 14:01:26.597416,4500.0
+Teclado Mecânico,Campinas,1,2025-07-23 14:01:26.597420,350.0
+Headset RGB,Bauru,4,2025-08-30 14:01:26.597425,250.0
+Mouse Sem Fio,Marília,5,2025-06-12 14:01:26.597429,120.0
+Mouse Sem Fio,Assis,2,2025-11-20 14:01:26.597433,120.0
+Notebook Gamer,São Paulo,3,2024-12-31 14:01:26.597438,4500.0
+Monitor 24pol,São Paulo,5,2024-12-12 14:01:26.597442,800.0
+Notebook Gamer,Campinas,5,2025-10-05 14:01:26.597446,4500.0
+Monitor 24pol,Bauru,4,2025-05-12 14:01:26.597451,800.0
+Mouse Sem Fio,São Paulo,1,2025-07-19 14:01:26.597455,120.0
+Notebook Gamer,Marília,2,2025-05-17 14:01:26.597460,4500.0
+Cadeira Ergonômica,Campinas,1,2025-02-05 14:01:26.597464,1200.0
+Headset RGB,Assis,2,2025-03-22 14:01:26.597469,250.0
+Teclado Mecânico,Campinas,2,2025-04-20 14:01:26.597473,350.0
+Monitor 24pol,Assis,1,2025-01-27 14:01:26.597477,800.0
+Cadeira Ergonômica,Campinas,5,2025-03-16 14:01:26.597481,1200.0
+Teclado Mecânico,Campinas,2,2025-07-30 14:01:26.597486,350.0
+Teclado Mecânico,Campinas,1,2025-04-01 14:01:26.597490,350.0
+Notebook Gamer,Assis,2,2025-07-29 14:01:26.597496,4500.0
+Teclado Mecânico,Assis,3,2025-03-24 14:01:26.597500,350.0
+Headset RGB,Campinas,5,2025-05-14 14:01:26.597504,250.0
+Cadeira Ergonômica,São Paulo,4,2025-06-23 14:01:26.597508,1200.0
+Teclado Mecânico,Bauru,2,2025-10-12 14:01:26.597513,350.0
+Notebook Gamer,Bauru,3,2025-08-24 14:01:26.597517,4500.0
+Headset RGB,Bauru,4,2025-01-06 14:01:26.597521,250.0
+Mouse Sem Fio,Assis,4,2025-04-24 14:01:26.597526,120.0
+Cadeira Ergonômica,Assis,2,2025-05-02 14:01:26.597530,1200.0
+Teclado Mecânico,São Paulo,1,2025-01-16 14:01:26.597534,350.0
+Notebook Gamer,Bauru,2,2025-05-15 14:01:26.597538,4500.0
+Mouse Sem Fio,Bauru,3,2024-12-03 14:01:26.597542,120.0
+Mouse Sem Fio,Campinas,4,2025-08-27 14:01:26.597547,120.0
+Monitor 24pol,Assis,2,2025-02-08 14:01:26.597551,800.0
+Headset RGB,Bauru,1,2025-10-26 14:01:26.597555,250.0
+Teclado Mecânico,São Paulo,2,2025-07-06 14:01:26.597559,350.0
+Notebook Gamer,São Paulo,5,2025-02-08 14:01:26.597564,4500.0
+Monitor 24pol,Bauru,1,2024-11-27 14:01:26.597568,800.0
+Headset RGB,Assis,3,2025-04-08 14:01:26.597572,250.0
+Monitor 24pol,São Paulo,4,2025-04-07 14:01:26.597577,800.0
+Cadeira Ergonômica,Campinas,2,2025-10-03 14:01:26.597582,1200.0
+Headset RGB,São Paulo,1,2025-09-25 14:01:26.597586,250.0
+Headset RGB,Marília,5,2025-01-16 14:01:26.597590,250.0
+Teclado Mecânico,Marília,1,2025-06-06 14:01:26.597595,350.0
+Headset RGB,Assis,5,2025-10-15 14:01:26.597599,250.0
+Monitor 24pol,Bauru,3,2025-06-11 14:01:26.597603,800.0
+Headset RGB,Assis,4,2024-12-01 14:01:26.597607,250.0
+Teclado Mecânico,Assis,3,2025-07-26 14:01:26.597612,350.0
+Teclado Mecânico,Assis,2,2024-11-29 14:01:26.597616,350.0
+Cadeira Ergonômica,Assis,1,2025-10-10 14:01:26.597621,1200.0
+Monitor 24pol,Campinas,5,2025-04-04 14:01:26.597625,800.0
+Mouse Sem Fio,Campinas,5,2025-01-26 14:01:26.597629,120.0
+Mouse Sem Fio,São Paulo,1,2024-12-18 14:01:26.597634,120.0
+Headset RGB,Marília,1,2025-08-03 14:01:26.597638,250.0
+Cadeira Ergonômica,Assis,2,2025-06-02 14:01:26.597642,1200.0
+Notebook Gamer,São Paulo,3,2025-01-15 14:01:26.597646,4500.0
+Headset RGB,Marília,5,2025-02-02 14:01:26.597651,250.0
+Cadeira Ergonômica,Bauru,2,2025-06-13 14:01:26.597655,1200.0
+Monitor 24pol,Campinas,3,2025-04-14 14:01:26.597659,800.0
+Monitor 24pol,Marília,2,2025-01-22 14:01:26.597663,800.0
+Monitor 24pol,Bauru,5,2025-06-13 14:01:26.597668,800.0
+Monitor 24pol,Marília,1,2024-12-13 14:01:26.597672,800.0
+Monitor 24pol,Campinas,1,2025-05-29 14:01:26.597676,800.0
+Cadeira Ergonômica,Campinas,3,2025-07-21 14:01:26.597684,1200.0
+Cadeira Ergonômica,São Paulo,4,2025-11-24 14:01:26.597690,1200.0
+Teclado Mecânico,Assis,3,2025-06-23 14:01:26.597694,350.0
+Mouse Sem Fio,Marília,4,2025-08-21 14:01:26.597699,120.0
+Monitor 24pol,Marília,2,2025-01-08 14:01:26.597703,800.0
+Notebook Gamer,Bauru,2,2025-04-28 14:01:26.597708,4500.0
+Cadeira Ergonômica,Campinas,5,2025-02-25 14:01:26.597712,1200.0
+Notebook Gamer,Marília,4,2024-12-31 14:01:26.597717,4500.0
+Notebook Gamer,Campinas,5,2024-12-21 14:01:26.597721,4500.0
+Notebook Gamer,Marília,1,2025-11-04 14:01:26.597725,4500.0
+Teclado Mecânico,São Paulo,4,2025-11-03 14:01:26.597730,350.0
+Cadeira Ergonômica,Assis,3,2025-03-19 14:01:26.597734,1200.0
+Notebook Gamer,Marília,1,2025-07-28 14:01:26.597739,4500.0
+Monitor 24pol,Campinas,1,2024-12-06 14:01:26.597743,800.0
+Headset RGB,São Paulo,3,2025-11-06 14:01:26.597747,250.0
+Notebook Gamer,Marília,1,2025-09-15 14:01:26.597751,4500.0
+Teclado Mecânico,Bauru,4,2024-12-26 14:01:26.597755,350.0
+Cadeira Ergonômica,Assis,5,2025-05-01 14:01:26.597759,1200.0
+Teclado Mecânico,Marília,1,2025-03-03 14:01:26.597764,350.0
+Notebook Gamer,São Paulo,4,2024-12-14 14:01:26.597768,4500.0
+Cadeira Ergonômica,Bauru,2,2025-10-16 14:01:26.597772,1200.0
+Headset RGB,São Paulo,4,2025-03-28 14:01:26.597777,250.0
+Notebook Gamer,São Paulo,5,2025-03-02 14:01:26.597781,4500.0
+Teclado Mecânico,Bauru,4,2025-08-23 14:01:26.597785,350.0
+Mouse Sem Fio,São Paulo,3,2024-12-14 14:01:26.597790,120.0
+Monitor 24pol,Bauru,5,2025-05-11 14:01:26.597794,800.0
+Teclado Mecânico,Marília,2,2025-07-16 14:01:26.597798,350.0
+Cadeira Ergonômica,Bauru,3,2025-11-12 14:01:26.597802,1200.0
+Notebook Gamer,Bauru,4,2025-08-26 14:01:26.597807,4500.0
+Monitor 24pol,Assis,5,2025-07-13 14:01:26.597812,800.0
+Notebook Gamer,Bauru,2,2025-03-12 14:01:26.597816,4500.0
+Cadeira Ergonômica,Bauru,3,2025-03-26 14:01:26.597821,1200.0
+Notebook Gamer,Marília,2,2025-02-09 14:01:26.597825,4500.0
+Mouse Sem Fio,Assis,4,2025-03-12 14:01:26.597829,120.0
+Monitor 24pol,Campinas,2,2025-05-25 14:01:26.597834,800.0
+Monitor 24pol,Marília,1,2025-10-17 14:01:26.597838,800.0
+Cadeira Ergonômica,Marília,3,2025-01-25 14:01:26.597842,1200.0
+Mouse Sem Fio,Campinas,2,2024-12-26 14:01:26.597847,120.0
+Teclado Mecânico,Bauru,4,2025-08-11 14:01:26.597851,350.0
+Notebook Gamer,São Paulo,4,2025-09-11 14:01:26.597855,4500.0
+Headset RGB,Assis,2,2025-06-17 14:01:26.597859,250.0
+Notebook Gamer,São Paulo,4,2025-09-14 14:01:26.597864,4500.0
+Notebook Gamer,Campinas,5,2025-10-09 14:01:26.597868,4500.0
+Teclado Mecânico,Marília,5,2025-11-06 14:01:26.597872,350.0
+Notebook Gamer,Marília,5,2025-03-05 14:01:26.597877,4500.0
+Mouse Sem Fio,Assis,1,2025-01-17 14:01:26.597881,120.0
+Mouse Sem Fio,Marília,2,2025-04-04 14:01:26.597885,120.0
+Monitor 24pol,Marília,1,2025-06-16 14:01:26.597889,800.0
+Cadeira Ergonômica,Assis,4,2024-12-24 14:01:26.597894,1200.0
+Headset RGB,Assis,1,2025-01-30 14:01:26.597898,250.0
+Notebook Gamer,Campinas,4,2025-09-14 14:01:26.597902,4500.0
+Notebook Gamer,Marília,4,2025-02-13 14:01:26.597906,4500.0
+Teclado Mecânico,Marília,3,2025-05-26 14:01:26.597911,350.0
+Cadeira Ergonômica,Campinas,5,2025-06-14 14:01:26.597915,1200.0
+Mouse Sem Fio,Bauru,4,2025-02-23 14:01:26.597919,120.0
+Headset RGB,Bauru,3,2025-07-28 14:01:26.597924,250.0
+Monitor 24pol,Bauru,5,2025-07-26 14:01:26.597928,800.0
+Mouse Sem Fio,Campinas,4,2025-06-27 14:01:26.597932,120.0
+Cadeira Ergonômica,Marília,4,2024-12-31 14:01:26.597936,1200.0
+Monitor 24pol,Campinas,1,2025-02-25 14:01:26.597940,800.0
+Teclado Mecânico,Campinas,1,2025-10-16 14:01:26.597944,350.0
+Teclado Mecânico,Bauru,5,2024-12-23 14:01:26.597950,350.0
+Notebook Gamer,São Paulo,4,2025-04-02 14:01:26.597954,4500.0
+Cadeira Ergonômica,Marília,2,2025-09-19 14:01:26.597961,1200.0
+Headset RGB,Bauru,1,2025-09-28 14:01:26.597966,250.0
+Monitor 24pol,São Paulo,5,2025-09-19 14:01:26.597970,800.0
+Mouse Sem Fio,São Paulo,4,2025-08-25 14:01:26.597975,120.0
+Cadeira Ergonômica,Assis,4,2025-07-27 14:01:26.597979,1200.0
+Cadeira Ergonômica,Marília,2,2025-07-27 14:01:26.597983,1200.0
+Teclado Mecânico,São Paulo,5,2025-08-08 14:01:26.597987,350.0
+Notebook Gamer,Bauru,4,2025-08-10 14:01:26.597992,4500.0
+Notebook Gamer,Assis,1,2025-03-06 14:01:26.597996,4500.0
+Monitor 24pol,Marília,2,2025-09-06 14:01:26.598001,800.0
+Teclado Mecânico,Campinas,5,2025-04-02 14:01:26.598005,350.0
+Cadeira Ergonômica,Bauru,2,2025-01-29 14:01:26.598009,1200.0
+Headset RGB,São Paulo,1,2025-09-04 14:01:26.598014,250.0
+Teclado Mecânico,São Paulo,5,2025-03-13 14:01:26.598018,350.0
+Monitor 24pol,Bauru,2,2025-10-24 14:01:26.598023,800.0
+Monitor 24pol,São Paulo,3,2025-07-27 14:01:26.598027,800.0
+Teclado Mecânico,Assis,1,2025-07-26 14:01:26.598032,350.0
+Monitor 24pol,Marília,1,2025-08-03 14:01:26.598036,800.0
+Teclado Mecânico,Assis,1,2025-06-10 14:01:26.598040,350.0
+Mouse Sem Fio,São Paulo,3,2025-01-23 14:01:26.598044,120.0
+Teclado Mecânico,Campinas,3,2025-05-04 14:01:26.598049,350.0
+Teclado Mecânico,Marília,4,2025-02-28 14:01:26.598053,350.0
+Monitor 24pol,Marília,2,2025-03-25 14:01:26.598057,800.0
+Monitor 24pol,Bauru,4,2025-04-24 14:01:26.598061,800.0
+Notebook Gamer,Bauru,2,2024-12-10 14:01:26.598066,4500.0
+Notebook Gamer,Campinas,3,2025-08-10 14:01:26.598070,4500.0
+Mouse Sem Fio,Marília,3,2025-03-21 14:01:26.598074,120.0
+Notebook Gamer,Campinas,4,2025-08-20 14:01:26.598078,4500.0
+Teclado Mecânico,Bauru,5,2025-02-10 14:01:26.598083,350.0
+Monitor 24pol,Bauru,4,2025-10-16 14:01:26.598087,800.0
+Notebook Gamer,Marília,2,2025-08-26 14:01:26.598091,4500.0
+Notebook Gamer,Assis,4,2024-12-20 14:01:26.598095,4500.0
+Mouse Sem Fio,São Paulo,1,2025-06-21 14:01:26.598099,120.0
+Cadeira Ergonômica,Bauru,2,2025-06-21 14:01:26.598103,1200.0
+Mouse Sem Fio,Bauru,2,2025-05-03 14:01:26.598109,120.0
+Teclado Mecânico,Assis,5,2025-05-05 14:01:26.598113,350.0
+Monitor 24pol,Assis,3,2025-01-27 14:01:26.598117,800.0
+Mouse Sem Fio,Campinas,2,2024-12-29 14:01:26.598121,120.0
+Notebook Gamer,Campinas,3,2025-03-27 14:01:26.598126,4500.0
+Monitor 24pol,São Paulo,4,2025-01-19 14:01:26.598130,800.0
+Monitor 24pol,São Paulo,1,2024-12-25 14:01:26.598134,800.0
+Notebook Gamer,Marília,5,2024-12-20 14:01:26.598139,4500.0
+Mouse Sem Fio,Campinas,3,2025-11-03 14:01:26.598143,120.0
+Notebook Gamer,Bauru,2,2025-03-03 14:01:26.598147,4500.0
+Cadeira Ergonômica,Campinas,3,2025-09-08 14:01:26.598151,1200.0
+Monitor 24pol,Bauru,2,2025-02-20 14:01:26.598155,800.0
+Headset RGB,Assis,3,2025-05-31 14:01:26.598160,250.0
+Headset RGB,Campinas,2,2025-02-21 14:01:26.598164,250.0
+Teclado Mecânico,Assis,4,2025-07-24 14:01:26.598168,350.0
+Notebook Gamer,São Paulo,2,2024-12-22 14:01:26.598172,4500.0
+Notebook Gamer,São Paulo,2,2025-04-21 14:01:26.598176,4500.0
+Teclado Mecânico,Marília,1,2025-02-17 14:01:26.598181,350.0
+Teclado Mecânico,Campinas,2,2025-07-25 14:01:26.598185,350.0
+Teclado Mecânico,Assis,1,2025-05-15 14:01:26.598189,350.0
+Monitor 24pol,Bauru,5,2025-06-05 14:01:26.598194,800.0
+Cadeira Ergonômica,São Paulo,1,2025-06-09 14:01:26.598198,1200.0
+Notebook Gamer,São Paulo,4,2025-05-10 14:01:26.598202,4500.0
+Monitor 24pol,Bauru,1,2025-07-30 14:01:26.598207,800.0
+Teclado Mecânico,Assis,5,2025-05-28 14:01:26.598211,350.0
+Notebook Gamer,Assis,4,2025-01-21 14:01:26.598215,4500.0
+Monitor 24pol,Campinas,3,2025-07-11 14:01:26.598219,800.0
+Cadeira Ergonômica,Campinas,3,2025-04-30 14:01:26.598224,1200.0
+Monitor 24pol,Marília,1,2025-01-25 14:01:26.598228,800.0
+Cadeira Ergonômica,São Paulo,1,2025-01-05 14:01:26.598232,1200.0
+Teclado Mecânico,Campinas,5,2025-04-11 14:01:26.598237,350.0
+Cadeira Ergonômica,Assis,5,2025-04-28 14:01:26.598241,1200.0
+Notebook Gamer,Bauru,2,2025-10-01 14:01:26.598245,4500.0
+Teclado Mecânico,Assis,5,2024-12-25 14:01:26.598249,350.0
+Notebook Gamer,São Paulo,2,2025-04-05 14:01:26.598253,4500.0
+Headset RGB,Assis,4,2025-10-24 14:01:26.598258,250.0
+Mouse Sem Fio,Marília,1,2025-04-03 14:01:26.598262,120.0
+Cadeira Ergonômica,São Paulo,4,2025-01-21 14:01:26.598267,1200.0
+Mouse Sem Fio,Bauru,5,2025-05-09 14:01:26.598271,120.0
+Mouse Sem Fio,Marília,4,2025-06-05 14:01:26.598275,120.0
+Cadeira Ergonômica,São Paulo,4,2025-08-30 14:01:26.598280,1200.0
+Teclado Mecânico,Bauru,4,2024-12-23 14:01:26.598285,350.0
+Headset RGB,Marília,5,2025-10-28 14:01:26.598289,250.0
+Notebook Gamer,Marília,4,2025-02-14 14:01:26.598294,4500.0
+Monitor 24pol,São Paulo,2,2024-12-05 14:01:26.598298,800.0
+Notebook Gamer,Campinas,5,2024-12-16 14:01:26.598303,4500.0
+Monitor 24pol,Marília,4,2025-11-10 14:01:26.598307,800.0
+Notebook Gamer,Marília,5,2025-07-08 14:01:26.598311,4500.0
+Cadeira Ergonômica,Bauru,3,2024-12-25 14:01:26.598315,1200.0
+Headset RGB,Assis,2,2025-10-12 14:01:26.598320,250.0
+Monitor 24pol,São Paulo,4,2025-08-05 14:01:26.598324,800.0
+Teclado Mecânico,São Paulo,3,2025-10-22 14:01:26.598331,350.0
+Notebook Gamer,Campinas,3,2025-09-05 14:01:26.598335,4500.0
+Notebook Gamer,Campinas,5,2025-03-15 14:01:26.598340,4500.0
+Monitor 24pol,São Paulo,3,2025-04-28 14:01:26.598344,800.0
+Teclado Mecânico,Campinas,2,2025-09-02 14:01:26.598348,350.0
+Teclado Mecânico,Bauru,2,2025-01-28 14:01:26.598352,350.0
+Cadeira Ergonômica,São Paulo,1,2025-09-13 14:01:26.598357,1200.0
+Cadeira Ergonômica,Campinas,2,2025-02-06 14:01:26.598361,1200.0
+Cadeira Ergonômica,São Paulo,3,2025-10-22 14:01:26.598366,1200.0
+Cadeira Ergonômica,Assis,2,2025-09-22 14:01:26.598370,1200.0
+Cadeira Ergonômica,Marília,5,2025-09-18 14:01:26.598374,1200.0
+Cadeira Ergonômica,São Paulo,1,2025-07-20 14:01:26.598378,1200.0
+Headset RGB,Marília,3,2025-04-04 14:01:26.598382,250.0
+Teclado Mecânico,Campinas,1,2025-11-03 14:01:26.598386,350.0
+Cadeira Ergonômica,Marília,3,2025-05-31 14:01:26.598390,1200.0
+Teclado Mecânico,São Paulo,5,2025-05-03 14:01:26.598394,350.0
+Teclado Mecânico,Assis,1,2025-07-18 14:01:26.598399,350.0
+Mouse Sem Fio,Campinas,4,2025-07-20 14:01:26.598403,120.0
+Headset RGB,São Paulo,3,2024-12-18 14:01:26.598407,250.0
+Cadeira Ergonômica,Campinas,4,2024-12-02 14:01:26.598411,1200.0
+Notebook Gamer,Bauru,1,2025-05-02 14:01:26.598416,4500.0
+Monitor 24pol,Marília,4,2025-08-29 14:01:26.598420,800.0
+Notebook Gamer,Bauru,4,2025-06-28 14:01:26.598425,4500.0
+Headset RGB,São Paulo,1,2025-03-24 14:01:26.598429,250.0
+Monitor 24pol,Assis,5,2025-08-24 14:01:26.598433,800.0
+Headset RGB,Campinas,4,2024-12-13 14:01:26.598437,250.0
+Teclado Mecânico,Marília,4,2025-10-09 14:01:26.598442,350.0
+Monitor 24pol,Campinas,5,2025-08-21 14:01:26.598446,800.0
+Teclado Mecânico,São Paulo,4,2025-09-25 14:01:26.598450,350.0
+Notebook Gamer,Campinas,4,2025-03-14 14:01:26.598454,4500.0
+Notebook Gamer,Marília,4,2025-11-13 14:01:26.598459,4500.0
+Monitor 24pol,São Paulo,2,2025-06-19 14:01:26.598463,800.0
+Monitor 24pol,Campinas,5,2025-08-01 14:01:26.598467,800.0
+Cadeira Ergonômica,Assis,4,2025-04-13 14:01:26.598472,1200.0
+Headset RGB,São Paulo,5,2025-11-08 14:01:26.598476,250.0
+Cadeira Ergonômica,São Paulo,3,2025-10-10 14:01:26.598480,1200.0
+Headset RGB,Assis,3,2025-05-13 14:01:26.598485,250.0
+Cadeira Ergonômica,Bauru,4,2025-01-25 14:01:26.598489,1200.0
+Teclado Mecânico,Marília,5,2025-02-16 14:01:26.598493,350.0
+Monitor 24pol,Bauru,5,2025-10-23 14:01:26.598498,800.0
+Notebook Gamer,Campinas,5,2025-10-29 14:01:26.598502,4500.0
+Headset RGB,Assis,2,2025-04-03 14:01:26.598506,250.0
+Headset RGB,Bauru,3,2025-10-20 14:01:26.598510,250.0
+Notebook Gamer,São Paulo,5,2025-07-05 14:01:26.598514,4500.0
+Cadeira Ergonômica,Campinas,5,2025-11-06 14:01:26.598518,1200.0
+Headset RGB,Campinas,2,2025-06-13 14:01:26.598523,250.0
+Teclado Mecânico,Bauru,2,2025-03-07 14:01:26.598527,350.0
+Monitor 24pol,Bauru,5,2025-08-26 14:01:26.598531,800.0
+Notebook Gamer,Assis,1,2025-11-06 14:01:26.598536,4500.0
+Monitor 24pol,Marília,5,2025-07-28 14:01:26.598540,800.0
+Headset RGB,Bauru,5,2025-02-15 14:01:26.598544,250.0
+Headset RGB,Bauru,2,2025-06-28 14:01:26.598548,250.0
+Notebook Gamer,São Paulo,2,2025-07-17 14:01:26.598552,4500.0
+Teclado Mecânico,Campinas,5,2025-01-05 14:01:26.598556,350.0
+Mouse Sem Fio,Marília,5,2025-09-29 14:01:26.598560,120.0
+Notebook Gamer,São Paulo,5,2025-03-14 14:01:26.598564,4500.0
+Mouse Sem Fio,Assis,2,2025-04-11 14:01:26.598568,120.0
+Cadeira Ergonômica,Assis,5,2025-03-13 14:01:26.598572,1200.0
+Mouse Sem Fio,Bauru,5,2025-04-21 14:01:26.598577,120.0
+Teclado Mecânico,Bauru,4,2025-11-09 14:01:26.598581,350.0
+Cadeira Ergonômica,Assis,1,2025-07-31 14:01:26.598586,1200.0
+Mouse Sem Fio,Bauru,3,2025-04-27 14:01:26.598590,120.0
+Cadeira Ergonômica,Marília,1,2025-08-09 14:01:26.598594,1200.0
+Mouse Sem Fio,Bauru,4,2024-12-08 14:01:26.598598,120.0
+Teclado Mecânico,Campinas,3,2025-08-05 14:01:26.598603,350.0
+Mouse Sem Fio,Bauru,5,2025-04-06 14:01:26.598607,120.0
+Mouse Sem Fio,São Paulo,4,2025-03-27 14:01:26.598611,120.0
+Mouse Sem Fio,Marília,5,2025-07-04 14:01:26.598615,120.0
+Notebook Gamer,São Paulo,2,2025-09-07 14:01:26.598620,4500.0
+Notebook Gamer,São Paulo,4,2025-11-04 14:01:26.598624,4500.0
+Notebook Gamer,Campinas,2,2025-06-24 14:01:26.598628,4500.0
+Teclado Mecânico,Marília,4,2025-03-05 14:01:26.598632,350.0
+Cadeira Ergonômica,Marília,4,2025-10-30 14:01:26.598637,1200.0
+Headset RGB,Marília,2,2025-10-18 14:01:26.598641,250.0
+Mouse Sem Fio,Marília,3,2025-06-25 14:01:26.598645,120.0
+Mouse Sem Fio,Marília,1,2025-09-26 14:01:26.598649,120.0
+Teclado Mecânico,Campinas,5,2025-10-29 14:01:26.598653,350.0
+Mouse Sem Fio,Bauru,4,2025-09-23 14:01:26.598657,120.0
+Notebook Gamer,São Paulo,5,2025-06-14 14:01:26.598662,4500.0
+Headset RGB,Marília,2,2025-01-05 14:01:26.598666,250.0
+Monitor 24pol,Bauru,5,2025-10-08 14:01:26.598670,800.0
+Mouse Sem Fio,Bauru,2,2025-02-20 14:01:26.598676,120.0
+Notebook Gamer,São Paulo,5,2025-05-28 14:01:26.598680,4500.0
+Monitor 24pol,Campinas,1,2025-11-12 14:01:26.598685,800.0
+Headset RGB,Assis,1,2025-07-11 14:01:26.598689,250.0
+Monitor 24pol,Assis,1,2025-04-08 14:01:26.598696,800.0
+Notebook Gamer,Bauru,1,2025-04-11 14:01:26.598700,4500.0
+Cadeira Ergonômica,São Paulo,1,2025-06-22 14:01:26.598705,1200.0
+Cadeira Ergonômica,Assis,1,2025-07-08 14:01:26.598709,1200.0
+Monitor 24pol,Bauru,2,2025-03-15 14:01:26.598713,800.0
+Teclado Mecânico,Campinas,4,2024-12-23 14:01:26.598717,350.0
+Monitor 24pol,Assis,5,2025-03-21 14:01:26.598722,800.0
+Mouse Sem Fio,Bauru,1,2025-02-19 14:01:26.598726,120.0
+Mouse Sem Fio,Bauru,2,2025-02-23 14:01:26.598730,120.0
+Cadeira Ergonômica,Marília,2,2025-03-27 14:01:26.598735,1200.0
+Teclado Mecânico,Campinas,2,2025-03-19 14:01:26.598739,350.0
+Notebook Gamer,Marília,4,2025-06-13 14:01:26.598743,4500.0
+Mouse Sem Fio,São Paulo,5,2025-11-18 14:01:26.598747,120.0
+Cadeira Ergonômica,Marília,4,2024-11-26 14:01:26.598752,1200.0
+Headset RGB,Marília,3,2025-09-20 14:01:26.598756,250.0
+Cadeira Ergonômica,Assis,2,2025-03-10 14:01:26.598760,1200.0
+Mouse Sem Fio,Bauru,3,2025-05-09 14:01:26.598765,120.0
+Mouse Sem Fio,Campinas,1,2025-01-28 14:01:26.598769,120.0
+Cadeira Ergonômica,Marília,1,2025-07-11 14:01:26.598773,1200.0
+Notebook Gamer,Campinas,4,2025-11-14 14:01:26.598777,4500.0
+Monitor 24pol,Marília,5,2025-11-05 14:01:26.598781,800.0
+Mouse Sem Fio,São Paulo,3,2024-11-29 14:01:26.598786,120.0
+Cadeira Ergonômica,Marília,5,2024-12-27 14:01:26.598790,1200.0
+Cadeira Ergonômica,Assis,4,2025-01-11 14:01:26.598794,1200.0
+Teclado Mecânico,Bauru,1,2025-08-03 14:01:26.598799,350.0
+Monitor 24pol,São Paulo,5,2025-01-15 14:01:26.598803,800.0
+Headset RGB,Marília,5,2025-05-13 14:01:26.598807,250.0
+Notebook Gamer,Campinas,1,2025-05-22 14:01:26.598811,4500.0
+Headset RGB,São Paulo,3,2025-03-28 14:01:26.598815,250.0
+Monitor 24pol,São Paulo,1,2025-07-01 14:01:26.598819,800.0
+Monitor 24pol,Marília,5,2024-12-10 14:01:26.598824,800.0
+Monitor 24pol,São Paulo,3,2025-06-14 14:01:26.598828,800.0
+Headset RGB,Campinas,3,2025-10-27 14:01:26.598832,250.0
+Monitor 24pol,São Paulo,1,2025-03-06 14:01:26.598836,800.0
+Cadeira Ergonômica,Campinas,5,2025-03-11 14:01:26.598841,1200.0
+Headset RGB,Marília,4,2025-09-04 14:01:26.598845,250.0
+Monitor 24pol,Bauru,5,2025-04-26 14:01:26.598849,800.0
+Cadeira Ergonômica,São Paulo,2,2025-01-05 14:01:26.598854,1200.0
+Teclado Mecânico,Bauru,4,2025-05-14 14:01:26.598858,350.0
+Monitor 24pol,Campinas,3,2025-02-24 14:01:26.598862,800.0
+Headset RGB,São Paulo,4,2025-05-13 14:01:26.598867,250.0
+Mouse Sem Fio,Assis,3,2025-04-11 14:01:26.598871,120.0
+Monitor 24pol,Bauru,3,2025-07-06 14:01:26.598875,800.0
+Mouse Sem Fio,São Paulo,4,2025-05-06 14:01:26.598879,120.0
+Cadeira Ergonômica,Bauru,3,2025-04-30 14:01:26.598885,1200.0
+Teclado Mecânico,São Paulo,3,2025-10-22 14:01:26.598889,350.0
+Notebook Gamer,Marília,2,2025-10-29 14:01:26.598893,4500.0
+Teclado Mecânico,Bauru,5,2025-01-08 14:01:26.598897,350.0
+Monitor 24pol,Assis,5,2025-03-24 14:01:26.598902,800.0
+Mouse Sem Fio,Assis,2,2025-01-13 14:01:26.598906,120.0
+Mouse Sem Fio,Campinas,4,2025-11-24 14:01:26.598910,120.0
+Headset RGB,São Paulo,1,2025-04-17 14:01:26.598914,250.0
+Mouse Sem Fio,Bauru,1,2025-08-17 14:01:26.598920,120.0
+Headset RGB,Campinas,1,2025-07-22 14:01:26.598925,250.0
+Cadeira Ergonômica,Bauru,2,2025-06-03 14:01:26.598929,1200.0
+Notebook Gamer,São Paulo,2,2024-12-24 14:01:26.598933,4500.0
+Monitor 24pol,Assis,3,2024-12-11 14:01:26.598937,800.0
+Headset RGB,Marília,1,2024-12-21 14:01:26.598942,250.0
+Notebook Gamer,Assis,4,2025-11-14 14:01:26.598946,4500.0
+Mouse Sem Fio,Campinas,4,2025-01-14 14:01:26.598950,120.0
+Mouse Sem Fio,Marília,1,2025-11-20 14:01:26.598954,120.0
+Notebook Gamer,Campinas,1,2025-09-13 14:01:26.598958,4500.0
+Mouse Sem Fio,São Paulo,1,2025-06-05 14:01:26.598963,120.0
+Cadeira Ergonômica,Marília,2,2024-12-23 14:01:26.598967,1200.0
+Cadeira Ergonômica,Campinas,2,2025-05-27 14:01:26.598972,1200.0
+Notebook Gamer,São Paulo,2,2025-01-13 14:01:26.598976,4500.0
+Headset RGB,Assis,5,2025-05-12 14:01:26.598980,250.0
+Headset RGB,São Paulo,4,2025-09-02 14:01:26.598984,250.0
+Notebook Gamer,Bauru,4,2025-09-04 14:01:26.598989,4500.0
+Headset RGB,São Paulo,3,2025-11-24 14:01:26.598993,250.0
+Headset RGB,São Paulo,2,2025-08-19 14:01:26.598997,250.0
+Cadeira Ergonômica,Bauru,5,2025-07-18 14:01:26.599001,1200.0
+Headset RGB,Campinas,5,2025-11-09 14:01:26.599006,250.0
+Teclado Mecânico,Campinas,4,2025-01-07 14:01:26.599010,350.0
+Monitor 24pol,São Paulo,2,2025-07-27 14:01:26.599014,800.0
+Mouse Sem Fio,Bauru,3,2025-08-23 14:01:26.599019,120.0
+Teclado Mecânico,Bauru,2,2024-12-30 14:01:26.599023,350.0
+Headset RGB,Assis,1,2025-07-13 14:01:26.599027,250.0
+Cadeira Ergonômica,Campinas,2,2025-04-28 14:01:26.599031,1200.0
+Notebook Gamer,Marília,1,2025-06-14 14:01:26.599036,4500.0
+Headset RGB,Campinas,1,2025-07-18 14:01:26.599040,250.0
+Cadeira Ergonômica,Campinas,3,2025-04-11 14:01:26.599044,1200.0
+Monitor 24pol,Assis,4,2025-04-02 14:01:26.599048,800.0
+Headset RGB,Marília,2,2025-08-24 14:01:26.599052,250.0
+Notebook Gamer,Assis,1,2025-02-01 14:01:26.599057,4500.0
+Cadeira Ergonômica,Marília,2,2025-04-26 14:01:26.599064,1200.0
+Cadeira Ergonômica,São Paulo,4,2025-10-09 14:01:26.599069,1200.0
+Cadeira Ergonômica,Marília,4,2025-01-24 14:01:26.599073,1200.0
+Monitor 24pol,Assis,5,2025-07-02 14:01:26.599077,800.0
+Headset RGB,Campinas,4,2025-01-04 14:01:26.599082,250.0
+Monitor 24pol,Marília,3,2025-07-09 14:01:26.599086,800.0
+Mouse Sem Fio,Marília,1,2025-11-04 14:01:26.599090,120.0
+Mouse Sem Fio,Bauru,5,2025-01-16 14:01:26.599094,120.0
+Headset RGB,Campinas,3,2025-04-24 14:01:26.599099,250.0
+Monitor 24pol,São Paulo,2,2025-11-02 14:01:26.599103,800.0
+Notebook Gamer,Assis,1,2024-12-05 14:01:26.599107,4500.0
+Cadeira Ergonômica,São Paulo,4,2025-08-27 14:01:26.599111,1200.0
+Cadeira Ergonômica,Campinas,1,2025-09-07 14:01:26.599116,1200.0
+Headset RGB,Marília,2,2025-03-29 14:01:26.599120,250.0
+Mouse Sem Fio,Marília,5,2025-03-23 14:01:26.599124,120.0
+Mouse Sem Fio,Campinas,5,2025-09-20 14:01:26.599129,120.0
+Cadeira Ergonômica,Marília,5,2025-08-04 14:01:26.599133,1200.0
+Headset RGB,Marília,4,2025-04-25 14:01:26.599137,250.0
+Monitor 24pol,Marília,3,2025-02-05 14:01:26.599141,800.0
+Mouse Sem Fio,Assis,3,2025-09-02 14:01:26.599145,120.0
+Monitor 24pol,Assis,1,2025-01-22 14:01:26.599149,800.0
+Mouse Sem Fio,Bauru,4,2025-03-27 14:01:26.599154,120.0
+Mouse Sem Fio,São Paulo,5,2025-10-28 14:01:26.599158,120.0
+Teclado Mecânico,Campinas,5,2025-04-16 14:01:26.599162,350.0
+Mouse Sem Fio,Campinas,2,2024-12-09 14:01:26.599166,120.0
+Notebook Gamer,Campinas,2,2025-03-24 14:01:26.599171,4500.0
+Headset RGB,Bauru,5,2025-08-06 14:01:26.599175,250.0
+Headset RGB,Assis,5,2025-03-20 14:01:26.599180,250.0
+Monitor 24pol,Bauru,4,2025-05-04 14:01:26.599184,800.0
+Mouse Sem Fio,Campinas,3,2025-10-10 14:01:26.599188,120.0
+Notebook Gamer,São Paulo,2,2025-02-02 14:01:26.599192,4500.0
+Monitor 24pol,Marília,3,2024-11-25 14:01:26.599198,800.0
+Teclado Mecânico,Assis,4,2025-08-25 14:01:26.599202,350.0
+Monitor 24pol,Assis,5,2025-08-14 14:01:26.599207,800.0
+Monitor 24pol,Bauru,3,2025-03-02 14:01:26.599211,800.0
+Mouse Sem Fio,Assis,5,2025-10-12 14:01:26.599215,120.0
+Teclado Mecânico,Campinas,5,2025-06-27 14:01:26.599220,350.0
+Monitor 24pol,Campinas,1,2025-01-23 14:01:26.599224,800.0
+Notebook Gamer,Bauru,3,2025-09-26 14:01:26.599228,4500.0
+Notebook Gamer,Campinas,3,2025-04-12 14:01:26.599233,4500.0
+Headset RGB,São Paulo,5,2025-02-27 14:01:26.599237,250.0
+Teclado Mecânico,Bauru,4,2025-08-31 14:01:26.599242,350.0
+Teclado Mecânico,São Paulo,1,2024-12-31 14:01:26.599246,350.0
+Headset RGB,Marília,5,2025-07-12 14:01:26.599250,250.0
+Monitor 24pol,São Paulo,2,2025-05-03 14:01:26.599255,800.0
+Teclado Mecânico,Marília,2,2025-08-09 14:01:26.599259,350.0
+Notebook Gamer,Marília,1,2025-11-04 14:01:26.599262,4500.0
+Notebook Gamer,São Paulo,4,2025-02-03 14:01:26.599267,4500.0
+Mouse Sem Fio,Bauru,5,2025-10-12 14:01:26.599271,120.0
+Teclado Mecânico,Campinas,3,2024-11-28 14:01:26.599276,350.0
+Monitor 24pol,Campinas,1,2025-05-30 14:01:26.599280,800.0
+Headset RGB,Marília,4,2025-03-21 14:01:26.599284,250.0
+Headset RGB,Marília,3,2025-05-28 14:01:26.599288,250.0
+Monitor 24pol,Bauru,2,2025-09-11 14:01:26.599293,800.0
+Cadeira Ergonômica,Assis,2,2025-02-03 14:01:26.599297,1200.0
+Mouse Sem Fio,São Paulo,3,2025-09-10 14:01:26.599301,120.0
+Headset RGB,Marília,1,2024-11-28 14:01:26.599306,250.0
+Teclado Mecânico,Campinas,2,2025-06-30 14:01:26.599310,350.0
+Mouse Sem Fio,Bauru,5,2025-10-29 14:01:26.599314,120.0
+Teclado Mecânico,São Paulo,3,2025-08-20 14:01:26.599318,350.0
+Notebook Gamer,Bauru,3,2025-01-19 14:01:26.599322,4500.0
+Mouse Sem Fio,São Paulo,2,2025-10-03 14:01:26.599326,120.0
+Headset RGB,São Paulo,1,2025-06-26 14:01:26.599331,250.0
+Mouse Sem Fio,Marília,5,2025-07-27 14:01:26.599335,120.0
+Mouse Sem Fio,Bauru,1,2025-05-04 14:01:26.599339,120.0
+Mouse Sem Fio,Bauru,4,2025-11-23 14:01:26.599343,120.0
+Cadeira Ergonômica,Campinas,4,2025-03-20 14:01:26.599347,1200.0
+Mouse Sem Fio,Campinas,2,2024-12-17 14:01:26.599351,120.0
+Teclado Mecânico,Marília,2,2025-06-09 14:01:26.599356,350.0
+Notebook Gamer,Marília,2,2025-09-23 14:01:26.599360,4500.0
+Monitor 24pol,Assis,4,2025-09-17 14:01:26.599364,800.0
+Mouse Sem Fio,Campinas,1,2025-02-10 14:01:26.599368,120.0
+Headset RGB,São Paulo,1,2025-08-01 14:01:26.599373,250.0
+Mouse Sem Fio,Bauru,2,2025-01-07 14:01:26.599377,120.0
+Headset RGB,Marília,5,2025-06-03 14:01:26.599381,250.0
+Teclado Mecânico,Bauru,1,2025-09-17 14:01:26.599385,350.0
+Headset RGB,Bauru,4,2024-12-26 14:01:26.599390,250.0
+Monitor 24pol,Assis,3,2024-12-30 14:01:26.599394,800.0
+Notebook Gamer,Campinas,3,2025-08-18 14:01:26.599399,4500.0
+Headset RGB,Marília,3,2025-06-08 14:01:26.599403,250.0
+Headset RGB,Bauru,5,2025-04-17 14:01:26.599407,250.0
+Notebook Gamer,Marília,2,2025-08-12 14:01:26.599411,4500.0
+Monitor 24pol,São Paulo,4,2025-11-04 14:01:26.599416,800.0
+Mouse Sem Fio,Assis,5,2025-07-09 14:01:26.599420,120.0
+Headset RGB,São Paulo,4,2025-10-19 14:01:26.599429,250.0
+Notebook Gamer,Marília,4,2025-05-08 14:01:26.599433,4500.0
+Teclado Mecânico,Marília,2,2025-01-20 14:01:26.599438,350.0
+Notebook Gamer,Campinas,3,2025-04-02 14:01:26.599442,4500.0
+Teclado Mecânico,Bauru,2,2025-07-05 14:01:26.599447,350.0
+Monitor 24pol,Bauru,5,2025-10-24 14:01:26.599451,800.0
+Mouse Sem Fio,São Paulo,5,2025-03-28 14:01:26.599455,120.0
+Notebook Gamer,Assis,5,2025-01-17 14:01:26.599459,4500.0
+Cadeira Ergonômica,Bauru,2,2025-03-09 14:01:26.599463,1200.0
+Headset RGB,Campinas,4,2025-09-28 14:01:26.599468,250.0
+Monitor 24pol,São Paulo,4,2025-07-06 14:01:26.599472,800.0
+Notebook Gamer,São Paulo,1,2025-10-13 14:01:26.599476,4500.0
+Headset RGB,Campinas,5,2025-01-01 14:01:26.599480,250.0
+Notebook Gamer,Assis,4,2025-09-17 14:01:26.599485,4500.0
+Teclado Mecânico,Campinas,1,2025-05-26 14:01:26.599489,350.0
+Notebook Gamer,Assis,4,2025-06-16 14:01:26.599493,4500.0
+Cadeira Ergonômica,Campinas,5,2025-03-27 14:01:26.599498,1200.0
+Notebook Gamer,Campinas,3,2025-01-01 14:01:26.599502,4500.0
+Notebook Gamer,Marília,5,2025-04-14 14:01:26.599506,4500.0
+Cadeira Ergonômica,São Paulo,2,2025-07-07 14:01:26.599512,1200.0
+Monitor 24pol,Campinas,4,2025-03-02 14:01:26.599516,800.0
+Notebook Gamer,Campinas,4,2025-05-25 14:01:26.599520,4500.0
+Cadeira Ergonômica,Bauru,2,2025-09-28 14:01:26.599524,1200.0
+Headset RGB,São Paulo,2,2025-06-22 14:01:26.599529,250.0
+Teclado Mecânico,Bauru,3,2025-01-08 14:01:26.599533,350.0
+Teclado Mecânico,São Paulo,4,2025-11-09 14:01:26.599538,350.0
+Notebook Gamer,Bauru,4,2025-11-10 14:01:26.599542,4500.0
+Monitor 24pol,Campinas,3,2025-04-09 14:01:26.599546,800.0
+Monitor 24pol,Campinas,1,2025-04-21 14:01:26.599550,800.0
+Headset RGB,Marília,3,2025-02-02 14:01:26.599555,250.0
+Notebook Gamer,Bauru,5,2025-06-01 14:01:26.599559,4500.0
+Teclado Mecânico,Assis,4,2025-05-16 14:01:26.599563,350.0
+Monitor 24pol,Marília,2,2025-09-17 14:01:26.599567,800.0
+Notebook Gamer,Bauru,5,2025-08-28 14:01:26.599571,4500.0
+Monitor 24pol,Bauru,4,2025-02-07 14:01:26.599576,800.0
+Cadeira Ergonômica,Marília,3,2025-05-11 14:01:26.599580,1200.0
+Monitor 24pol,Campinas,5,2025-06-02 14:01:26.599584,800.0
+Teclado Mecânico,Bauru,4,2025-02-09 14:01:26.599589,350.0
+Mouse Sem Fio,Campinas,1,2025-04-16 14:01:26.599593,120.0
+Headset RGB,Marília,1,2025-08-24 14:01:26.599597,250.0
+Headset RGB,Campinas,2,2025-03-13 14:01:26.599602,250.0
+Teclado Mecânico,São Paulo,4,2025-05-25 14:01:26.599606,350.0
+Monitor 24pol,Assis,1,2024-12-28 14:01:26.599610,800.0
+Notebook Gamer,Bauru,3,2025-08-11 14:01:26.599614,4500.0
+Monitor 24pol,Assis,4,2025-01-18 14:01:26.599619,800.0
+Teclado Mecânico,Campinas,3,2024-11-27 14:01:26.599623,350.0
+Headset RGB,Bauru,3,2025-03-27 14:01:26.599627,250.0
+Monitor 24pol,Campinas,1,2025-07-18 14:01:26.599631,800.0
+Headset RGB,São Paulo,4,2025-05-05 14:01:26.599635,250.0
+Notebook Gamer,Marília,5,2025-06-28 14:01:26.599640,4500.0
+Headset RGB,Bauru,1,2024-12-21 14:01:26.599644,250.0
+Headset RGB,São Paulo,1,2025-07-31 14:01:26.599648,250.0
+Mouse Sem Fio,São Paulo,4,2025-05-20 14:01:26.599653,120.0
+Mouse Sem Fio,Bauru,4,2025-05-12 14:01:26.599657,120.0
+Cadeira Ergonômica,Campinas,3,2025-08-17 14:01:26.599661,1200.0
+Mouse Sem Fio,São Paulo,4,2024-12-21 14:01:26.599665,120.0
+Headset RGB,Assis,3,2024-11-28 14:01:26.599669,250.0
+Teclado Mecânico,São Paulo,1,2025-03-16 14:01:26.599674,350.0
+Headset RGB,Campinas,2,2024-12-06 14:01:26.599678,250.0
+Teclado Mecânico,Campinas,5,2025-09-14 14:01:26.599682,350.0
+Teclado Mecânico,Assis,1,2025-04-01 14:01:26.599687,350.0
+Mouse Sem Fio,São Paulo,4,2025-11-08 14:01:26.599691,120.0
+Monitor 24pol,Campinas,5,2025-03-02 14:01:26.599695,800.0
+Notebook Gamer,Bauru,2,2025-05-18 14:01:26.599699,4500.0
+Mouse Sem Fio,Marília,2,2025-03-27 14:01:26.599704,120.0
+Mouse Sem Fio,Marília,3,2024-12-15 14:01:26.599708,120.0
+Monitor 24pol,Marília,5,2025-08-07 14:01:26.599712,800.0
+Notebook Gamer,São Paulo,3,2025-04-06 14:01:26.599717,4500.0
+Headset RGB,Assis,1,2025-05-17 14:01:26.599721,250.0
+Cadeira Ergonômica,Campinas,5,2024-12-05 14:01:26.599725,1200.0
+Cadeira Ergonômica,Bauru,1,2025-11-03 14:01:26.599730,1200.0
+Headset RGB,Bauru,3,2025-06-23 14:01:26.599734,250.0
+Mouse Sem Fio,São Paulo,5,2025-07-10 14:01:26.599738,120.0
+Notebook Gamer,Marília,3,2025-08-30 14:01:26.599742,4500.0
+Mouse Sem Fio,São Paulo,5,2024-11-30 14:01:26.599746,120.0
+Teclado Mecânico,Assis,3,2025-11-16 14:01:26.599751,350.0
+Mouse Sem Fio,Assis,2,2025-10-26 14:01:26.599755,120.0
+Mouse Sem Fio,Campinas,3,2024-12-26 14:01:26.599759,120.0
+Headset RGB,Campinas,2,2025-03-10 14:01:26.599763,250.0
+Headset RGB,Assis,3,2025-11-05 14:01:26.599768,250.0
+Headset RGB,Assis,5,2025-09-15 14:01:26.599772,250.0
+Cadeira Ergonômica,Assis,5,2025-08-14 14:01:26.599776,1200.0
+Teclado Mecânico,São Paulo,5,2025-04-05 14:01:26.599780,350.0
+Headset RGB,Assis,4,2025-10-07 14:01:26.599785,250.0
+Notebook Gamer,Bauru,1,2025-08-15 14:01:26.599789,4500.0
+Cadeira Ergonômica,Marília,5,2025-01-28 14:01:26.599796,1200.0
+Monitor 24pol,Assis,2,2025-06-29 14:01:26.599800,800.0
+Notebook Gamer,Marília,5,2025-01-25 14:01:26.599804,4500.0
+Notebook Gamer,São Paulo,4,2025-11-20 14:01:26.599809,4500.0
+Headset RGB,Marília,2,2025-07-08 14:01:26.599813,250.0
+Monitor 24pol,São Paulo,4,2024-12-05 14:01:26.599818,800.0
+Monitor 24pol,Bauru,2,2025-01-06 14:01:26.599822,800.0
+Cadeira Ergonômica,São Paulo,3,2025-06-09 14:01:26.599826,1200.0
+Monitor 24pol,São Paulo,1,2025-04-25 14:01:26.599831,800.0
+Teclado Mecânico,Campinas,1,2025-01-10 14:01:26.599835,350.0
+Headset RGB,Assis,4,2025-11-13 14:01:26.599840,250.0
+Monitor 24pol,Assis,1,2025-10-26 14:01:26.599844,800.0
+Cadeira Ergonômica,Bauru,4,2025-02-03 14:01:26.599848,1200.0
+Teclado Mecânico,Bauru,4,2025-06-02 14:01:26.599853,350.0
+Mouse Sem Fio,Assis,4,2025-08-03 14:01:26.599859,120.0
+Mouse Sem Fio,Campinas,1,2025-11-14 14:01:26.599863,120.0
+Teclado Mecânico,Assis,4,2025-10-06 14:01:26.599867,350.0
+Cadeira Ergonômica,Campinas,1,2024-12-26 14:01:26.599872,1200.0
+Teclado Mecânico,Bauru,4,2025-06-02 14:01:26.599876,350.0
+Headset RGB,Marília,5,2025-01-29 14:01:26.599881,250.0
+Headset RGB,Bauru,4,2025-01-03 14:01:26.599885,250.0
+Mouse Sem Fio,Bauru,2,2025-07-05 14:01:26.599890,120.0
+Monitor 24pol,São Paulo,4,2025-01-23 14:01:26.599894,800.0
+Cadeira Ergonômica,São Paulo,3,2025-10-21 14:01:26.599899,1200.0
+Mouse Sem Fio,São Paulo,4,2025-08-07 14:01:26.599903,120.0
+Monitor 24pol,São Paulo,2,2025-10-30 14:01:26.599907,800.0
+Monitor 24pol,Campinas,2,2025-07-03 14:01:26.599912,800.0
+Headset RGB,Assis,1,2025-02-26 14:01:26.599916,250.0
+Notebook Gamer,Marília,5,2025-06-03 14:01:26.599920,4500.0
+Notebook Gamer,Bauru,4,2025-04-03 14:01:26.599925,4500.0
+Teclado Mecânico,Campinas,1,2025-01-27 14:01:26.599929,350.0
+Headset RGB,Marília,5,2025-05-01 14:01:26.599933,250.0
+Monitor 24pol,Campinas,4,2025-03-29 14:01:26.599937,800.0
+Cadeira Ergonômica,Campinas,3,2024-12-15 14:01:26.599942,1200.0
+Notebook Gamer,Bauru,4,2025-04-16 14:01:26.599946,4500.0
+Monitor 24pol,Assis,2,2025-11-14 14:01:26.599950,800.0
+Notebook Gamer,São Paulo,2,2025-09-18 14:01:26.599954,4500.0
+Notebook Gamer,Assis,3,2025-04-08 14:01:26.599958,4500.0
+Notebook Gamer,Bauru,1,2025-09-03 14:01:26.599963,4500.0
+Cadeira Ergonômica,Bauru,5,2025-10-04 14:01:26.599967,1200.0
+Headset RGB,Bauru,4,2025-08-05 14:01:26.599971,250.0
+Cadeira Ergonômica,Marília,2,2025-03-11 14:01:26.599975,1200.0
+Mouse Sem Fio,Assis,1,2025-04-01 14:01:26.599980,120.0
+Monitor 24pol,Assis,3,2025-01-06 14:01:26.599984,800.0
+Headset RGB,Campinas,2,2025-11-05 14:01:26.599988,250.0
+Headset RGB,Campinas,3,2025-02-25 14:01:26.599992,250.0
+Headset RGB,Campinas,4,2025-10-08 14:01:26.599997,250.0
+Headset RGB,Bauru,5,2025-10-24 14:01:26.600001,250.0
+Cadeira Ergonômica,Assis,2,2025-10-11 14:01:26.600005,1200.0
+Headset RGB,Bauru,2,2025-08-02 14:01:26.600009,250.0
+Teclado Mecânico,Marília,4,2025-09-21 14:01:26.600014,350.0
+Monitor 24pol,Campinas,1,2025-09-13 14:01:26.600018,800.0
+Headset RGB,Bauru,5,2024-12-10 14:01:26.600022,250.0
+Monitor 24pol,Bauru,2,2025-09-16 14:01:26.600027,800.0
+Teclado Mecânico,Marília,5,2025-01-03 14:01:26.600031,350.0
+Teclado Mecânico,São Paulo,2,2025-05-30 14:01:26.600035,350.0
+Monitor 24pol,Assis,5,2025-11-20 14:01:26.600039,800.0
+Notebook Gamer,São Paulo,3,2025-06-23 14:01:26.600043,4500.0
+Mouse Sem Fio,Campinas,2,2025-11-10 14:01:26.600047,120.0
+Notebook Gamer,Bauru,5,2025-03-06 14:01:26.600051,4500.0
+Notebook Gamer,Marília,1,2025-01-12 14:01:26.600056,4500.0
+Cadeira Ergonômica,Marília,3,2025-06-01 14:01:26.600060,1200.0
+Notebook Gamer,Assis,3,2025-02-20 14:01:26.600065,4500.0
+Headset RGB,São Paulo,1,2025-11-09 14:01:26.600069,250.0
+Cadeira Ergonômica,Assis,5,2025-08-12 14:01:26.600073,1200.0
+Cadeira Ergonômica,Bauru,4,2025-04-08 14:01:26.600078,1200.0
+Teclado Mecânico,Assis,1,2025-05-10 14:01:26.600082,350.0
+Notebook Gamer,Marília,5,2025-10-07 14:01:26.600086,4500.0
+Teclado Mecânico,Marília,1,2025-08-06 14:01:26.600090,350.0
+Monitor 24pol,Campinas,1,2025-08-16 14:01:26.600094,800.0
+Mouse Sem Fio,Campinas,2,2025-08-15 14:01:26.600098,120.0
+Cadeira Ergonômica,Bauru,5,2025-07-23 14:01:26.600102,1200.0
+Monitor 24pol,São Paulo,4,2025-03-17 14:01:26.600107,800.0
+Monitor 24pol,Assis,2,2025-08-23 14:01:26.600111,800.0
+Headset RGB,Bauru,1,2024-12-25 14:01:26.600115,250.0
+Mouse Sem Fio,Campinas,1,2025-03-13 14:01:26.600120,120.0
+Monitor 24pol,Assis,1,2024-11-24 14:01:26.600124,800.0
+Monitor 24pol,Campinas,5,2025-01-02 14:01:26.600128,800.0
+Mouse Sem Fio,Assis,5,2025-05-28 14:01:26.600133,120.0
+Mouse Sem Fio,São Paulo,2,2025-07-09 14:01:26.600137,120.0
+Monitor 24pol,Bauru,4,2025-11-11 14:01:26.600141,800.0
+Mouse Sem Fio,Assis,2,2025-05-20 14:01:26.600145,120.0
+Monitor 24pol,Marília,3,2025-04-23 14:01:26.600149,800.0
+Monitor 24pol,Marília,1,2025-06-04 14:01:26.600154,800.0
+Headset RGB,Assis,1,2025-06-13 14:01:26.600158,250.0
+Notebook Gamer,Assis,1,2025-01-02 14:01:26.600165,4500.0
+Monitor 24pol,Assis,2,2025-08-29 14:01:26.600169,800.0
+Teclado Mecânico,Marília,2,2025-10-04 14:01:26.600174,350.0
+Cadeira Ergonômica,Marília,1,2025-09-13 14:01:26.600178,1200.0
+Notebook Gamer,Assis,2,2025-09-10 14:01:26.600182,4500.0
+Notebook Gamer,Campinas,5,2025-03-27 14:01:26.600186,4500.0
+Notebook Gamer,Campinas,5,2025-06-06 14:01:26.600191,4500.0
+Headset RGB,São Paulo,2,2025-04-27 14:01:26.600195,250.0
+Monitor 24pol,Bauru,1,2025-04-30 14:01:26.600199,800.0
+Headset RGB,Campinas,2,2025-08-03 14:01:26.600203,250.0
+Monitor 24pol,Marília,2,2025-07-31 14:01:26.600207,800.0
+Headset RGB,Campinas,2,2025-08-05 14:01:26.600211,250.0
+Headset RGB,São Paulo,3,2025-09-27 14:01:26.600215,250.0
+Cadeira Ergonômica,São Paulo,5,2025-08-21 14:01:26.600219,1200.0
+Teclado Mecânico,Bauru,4,2025-10-13 14:01:26.600224,350.0
+Headset RGB,Campinas,4,2025-04-22 14:01:26.600228,250.0
+Cadeira Ergonômica,Marília,3,2025-05-17 14:01:26.600232,1200.0
+Mouse Sem Fio,Marília,2,2025-11-05 14:01:26.600238,120.0
+Teclado Mecânico,Assis,3,2025-07-22 14:01:26.600242,350.0
+Headset RGB,Marília,3,2025-07-06 14:01:26.600247,250.0
+Notebook Gamer,Bauru,1,2025-06-12 14:01:26.600251,4500.0
+Mouse Sem Fio,Bauru,5,2025-07-13 14:01:26.600255,120.0
+Mouse Sem Fio,Marília,4,2025-01-15 14:01:26.600259,120.0
+Cadeira Ergonômica,Marília,2,2025-11-03 14:01:26.600264,1200.0
+Mouse Sem Fio,Assis,4,2025-10-12 14:01:26.600268,120.0
+Teclado Mecânico,Marília,4,2025-08-11 14:01:26.600272,350.0
+Headset RGB,Assis,5,2025-08-03 14:01:26.600276,250.0
+Headset RGB,Assis,4,2025-09-13 14:01:26.600280,250.0
+Notebook Gamer,Marília,4,2025-11-22 14:01:26.600285,4500.0
+Cadeira Ergonômica,São Paulo,3,2025-05-25 14:01:26.600289,1200.0
+Notebook Gamer,São Paulo,5,2025-01-30 14:01:26.600293,4500.0
+Mouse Sem Fio,Assis,1,2025-01-29 14:01:26.600297,120.0
+Notebook Gamer,Marília,2,2025-04-30 14:01:26.600302,4500.0
+Teclado Mecânico,São Paulo,4,2025-08-01 14:01:26.600306,350.0
+Headset RGB,Marília,2,2025-09-30 14:01:26.600310,250.0
+Mouse Sem Fio,Marília,1,2025-04-22 14:01:26.600315,120.0
+Notebook Gamer,Marília,2,2025-02-13 14:01:26.600319,4500.0
+Cadeira Ergonômica,Campinas,1,2025-04-01 14:01:26.600323,1200.0
+Teclado Mecânico,Marília,3,2025-03-24 14:01:26.600328,350.0
+Teclado Mecânico,Campinas,4,2025-02-26 14:01:26.600332,350.0
+Notebook Gamer,Assis,1,2025-09-21 14:01:26.600336,4500.0
+Headset RGB,São Paulo,2,2025-09-28 14:01:26.600340,250.0
+Notebook Gamer,São Paulo,4,2025-02-04 14:01:26.600345,4500.0
+Mouse Sem Fio,São Paulo,3,2025-01-02 14:01:26.600349,120.0
+Notebook Gamer,São Paulo,4,2025-10-13 14:01:26.600353,4500.0
+Teclado Mecânico,São Paulo,1,2025-03-29 14:01:26.600357,350.0
+Notebook Gamer,São Paulo,3,2025-10-20 14:01:26.600362,4500.0
+Headset RGB,São Paulo,2,2025-11-03 14:01:26.600366,250.0
+Cadeira Ergonômica,Assis,3,2025-04-10 14:01:26.600370,1200.0
+Monitor 24pol,Marília,3,2025-01-22 14:01:26.600374,800.0
+Notebook Gamer,Bauru,5,2025-05-05 14:01:26.600378,4500.0
+Headset RGB,Campinas,3,2025-10-21 14:01:26.600382,250.0
+Headset RGB,Bauru,3,2025-07-28 14:01:26.600387,250.0
+Cadeira Ergonômica,Bauru,4,2025-05-08 14:01:26.600391,1200.0
+Teclado Mecânico,Marília,2,2025-01-11 14:01:26.600395,350.0
+Headset RGB,Marília,4,2025-02-05 14:01:26.600399,250.0
+Headset RGB,Marília,4,2025-06-02 14:01:26.600404,250.0
+Headset RGB,São Paulo,1,2025-04-18 14:01:26.600408,250.0
+Headset RGB,Assis,4,2025-03-24 14:01:26.600412,250.0
+Mouse Sem Fio,São Paulo,5,2025-01-09 14:01:26.600416,120.0
+Mouse Sem Fio,Assis,5,2025-11-02 14:01:26.600421,120.0
+Teclado Mecânico,Assis,1,2025-08-06 14:01:26.600425,350.0
+Notebook Gamer,Bauru,2,2024-11-28 14:01:26.600429,4500.0
+Headset RGB,Bauru,2,2025-03-05 14:01:26.600433,250.0
+Cadeira Ergonômica,Assis,4,2025-05-04 14:01:26.600438,1200.0
+Notebook Gamer,Assis,4,2025-02-06 14:01:26.600442,4500.0
+Cadeira Ergonômica,São Paulo,4,2024-12-03 14:01:26.600446,1200.0
+Notebook Gamer,São Paulo,2,2025-11-01 14:01:26.600451,4500.0
+Teclado Mecânico,Bauru,3,2025-06-20 14:01:26.600455,350.0
+Headset RGB,Marília,5,2025-04-02 14:01:26.600459,250.0
+Headset RGB,Assis,3,2025-05-04 14:01:26.600463,250.0
+Monitor 24pol,São Paulo,3,2025-10-20 14:01:26.600467,800.0
+Cadeira Ergonômica,Bauru,2,2025-10-05 14:01:26.600471,1200.0
+Notebook Gamer,São Paulo,3,2025-02-18 14:01:26.600476,4500.0
+Notebook Gamer,Assis,1,2025-06-23 14:01:26.600480,4500.0
+Mouse Sem Fio,Assis,4,2025-06-09 14:01:26.600484,120.0
+Monitor 24pol,Campinas,1,2025-08-27 14:01:26.600488,800.0
+Mouse Sem Fio,Marília,5,2025-01-06 14:01:26.600492,120.0
+Mouse Sem Fio,Campinas,4,2025-04-04 14:01:26.600497,120.0
+Mouse Sem Fio,Bauru,3,2024-12-30 14:01:26.600501,120.0
+Cadeira Ergonômica,São Paulo,5,2025-01-14 14:01:26.600506,1200.0
+Cadeira Ergonômica,Bauru,4,2025-03-27 14:01:26.600510,1200.0
+Teclado Mecânico,Assis,3,2025-05-05 14:01:26.600514,350.0
+Teclado Mecânico,Campinas,1,2025-06-27 14:01:26.600518,350.0
+Mouse Sem Fio,Campinas,4,2025-07-05 14:01:26.600523,120.0
+Monitor 24pol,Campinas,3,2025-07-22 14:01:26.600527,800.0
+Notebook Gamer,Bauru,1,2025-10-22 14:01:26.600534,4500.0
+Cadeira Ergonômica,Assis,5,2025-10-12 14:01:26.600539,1200.0
+Monitor 24pol,São Paulo,5,2025-03-21 14:01:26.600543,800.0
+Headset RGB,São Paulo,5,2025-06-13 14:01:26.600547,250.0
+Cadeira Ergonômica,Bauru,5,2024-11-27 14:01:26.600552,1200.0
+Cadeira Ergonômica,Campinas,2,2025-10-24 14:01:26.600556,1200.0
+Teclado Mecânico,Marília,4,2025-03-24 14:01:26.600560,350.0
+Notebook Gamer,Bauru,4,2025-01-09 14:01:26.600564,4500.0
+Notebook Gamer,Bauru,2,2025-04-20 14:01:26.600569,4500.0
+Headset RGB,Assis,3,2025-10-01 14:01:26.600574,250.0
+Headset RGB,São Paulo,3,2025-05-11 14:01:26.600578,250.0
+Cadeira Ergonômica,Bauru,5,2025-03-24 14:01:26.600582,1200.0
+Mouse Sem Fio,Bauru,1,2025-01-22 14:01:26.600586,120.0
+Teclado Mecânico,Campinas,3,2025-09-23 14:01:26.600590,350.0
+Teclado Mecânico,Campinas,1,2025-09-18 14:01:26.600595,350.0
+Cadeira Ergonômica,Marília,4,2025-05-24 14:01:26.600599,1200.0
+Monitor 24pol,Assis,1,2025-07-14 14:01:26.600603,800.0
+Mouse Sem Fio,Marília,4,2024-12-10 14:01:26.600607,120.0
+Cadeira Ergonômica,Campinas,2,2025-06-27 14:01:26.600612,1200.0
+Mouse Sem Fio,São Paulo,2,2025-06-08 14:01:26.600616,120.0
+Mouse Sem Fio,Campinas,5,2025-01-02 14:01:26.600620,120.0
+Mouse Sem Fio,Assis,3,2025-10-18 14:01:26.600624,120.0
+Cadeira Ergonômica,Campinas,5,2025-04-11 14:01:26.600628,1200.0
+Teclado Mecânico,Assis,4,2025-08-24 14:01:26.600633,350.0
+Teclado Mecânico,Assis,5,2025-09-24 14:01:26.600637,350.0
+Mouse Sem Fio,Assis,1,2025-04-09 14:01:26.600641,120.0
+Monitor 24pol,Assis,4,2025-03-27 14:01:26.600645,800.0
+Notebook Gamer,Assis,2,2025-10-27 14:01:26.600649,4500.0
+Cadeira Ergonômica,São Paulo,3,2024-12-15 14:01:26.600653,1200.0
+Notebook Gamer,Marília,4,2025-07-26 14:01:26.600657,4500.0
+Monitor 24pol,Bauru,4,2025-02-03 14:01:26.600662,800.0
+Cadeira Ergonômica,Marília,1,2024-12-25 14:01:26.600667,1200.0
+Mouse Sem Fio,Assis,3,2025-04-28 14:01:26.600672,120.0
+Teclado Mecânico,São Paulo,2,2025-02-12 14:01:26.600676,350.0
+Notebook Gamer,Campinas,4,2025-08-31 14:01:26.600680,4500.0
+Headset RGB,São Paulo,4,2025-08-30 14:01:26.600685,250.0
+Headset RGB,Assis,1,2024-12-07 14:01:26.600689,250.0
+Monitor 24pol,São Paulo,5,2025-10-24 14:01:26.600693,800.0
+Mouse Sem Fio,São Paulo,2,2025-02-24 14:01:26.600697,120.0
+Notebook Gamer,Assis,3,2025-03-18 14:01:26.600702,4500.0
+Mouse Sem Fio,São Paulo,4,2025-07-01 14:01:26.600706,120.0
+Notebook Gamer,Bauru,4,2025-05-03 14:01:26.600710,4500.0
+Monitor 24pol,Bauru,2,2025-07-22 14:01:26.600714,800.0
+Monitor 24pol,São Paulo,5,2024-12-30 14:01:26.600718,800.0
+Headset RGB,Campinas,4,2025-04-15 14:01:26.600722,250.0
+Mouse Sem Fio,Assis,2,2025-01-03 14:01:26.600727,120.0
+Cadeira Ergonômica,Bauru,1,2025-01-31 14:01:26.600731,1200.0
+Headset RGB,Campinas,5,2025-10-27 14:01:26.600735,250.0
+Mouse Sem Fio,São Paulo,3,2025-02-11 14:01:26.600739,120.0
+Headset RGB,Campinas,4,2025-11-16 14:01:26.600744,250.0
+Cadeira Ergonômica,Marília,2,2025-08-13 14:01:26.600748,1200.0
+Teclado Mecânico,Bauru,1,2025-03-09 14:01:26.600752,350.0
+Teclado Mecânico,São Paulo,3,2025-07-05 14:01:26.600756,350.0
+Teclado Mecânico,Assis,2,2025-05-01 14:01:26.600760,350.0
+Teclado Mecânico,São Paulo,2,2025-05-10 14:01:26.600765,350.0
+Notebook Gamer,Assis,3,2025-03-02 14:01:26.600769,4500.0
+Teclado Mecânico,São Paulo,1,2024-12-11 14:01:26.600773,350.0
+Cadeira Ergonômica,Campinas,1,2025-09-13 14:01:26.600777,1200.0
+Monitor 24pol,Campinas,5,2025-06-26 14:01:26.600781,800.0
+Monitor 24pol,Campinas,4,2025-11-19 14:01:26.600786,800.0
+Notebook Gamer,Marília,3,2025-03-12 14:01:26.600790,4500.0
+Teclado Mecânico,Assis,3,2025-08-18 14:01:26.600794,350.0
+Teclado Mecânico,Campinas,3,2025-04-24 14:01:26.600798,350.0
+Teclado Mecânico,Marília,1,2025-01-26 14:01:26.600803,350.0
+Headset RGB,Assis,4,2025-03-30 14:01:26.600807,250.0
+Mouse Sem Fio,São Paulo,5,2025-04-02 14:01:26.600811,120.0
+Headset RGB,Marília,2,2025-10-14 14:01:26.600815,250.0
+Mouse Sem Fio,Bauru,2,2025-03-20 14:01:26.600819,120.0
+Teclado Mecânico,Marília,3,2025-04-08 14:01:26.600824,350.0
+Teclado Mecânico,Marília,4,2025-04-15 14:01:26.600828,350.0
+Headset RGB,Assis,1,2024-12-25 14:01:26.600832,250.0
+Headset RGB,São Paulo,4,2025-10-22 14:01:26.600837,250.0
+Mouse Sem Fio,Bauru,4,2024-12-27 14:01:26.600841,120.0
+Monitor 24pol,Campinas,1,2025-05-07 14:01:26.600845,800.0
+Mouse Sem Fio,Campinas,3,2025-11-01 14:01:26.600849,120.0
+Headset RGB,Marília,4,2025-04-23 14:01:26.600853,250.0
+Cadeira Ergonômica,Assis,2,2024-12-31 14:01:26.600857,1200.0
+Headset RGB,Assis,1,2025-03-19 14:01:26.600862,250.0
+Cadeira Ergonômica,Campinas,5,2025-05-20 14:01:26.600867,1200.0
+Notebook Gamer,Bauru,3,2025-10-16 14:01:26.600871,4500.0
+Headset RGB,São Paulo,1,2025-04-16 14:01:26.600876,250.0
+Notebook Gamer,Bauru,5,2025-05-15 14:01:26.600880,4500.0
+Monitor 24pol,São Paulo,5,2025-10-26 14:01:26.600884,800.0
+Mouse Sem Fio,Campinas,4,2025-10-05 14:01:26.600888,120.0
+Cadeira Ergonômica,São Paulo,4,2025-02-20 14:01:26.600895,1200.0
+Mouse Sem Fio,Assis,4,2025-07-26 14:01:26.600900,120.0
+Notebook Gamer,Marília,1,2025-08-04 14:01:26.600904,4500.0
+Cadeira Ergonômica,Marília,1,2024-12-19 14:01:26.600909,1200.0
+Mouse Sem Fio,Campinas,3,2025-05-12 14:01:26.600913,120.0
+Headset RGB,Assis,4,2025-03-30 14:01:26.600917,250.0
+Teclado Mecânico,Bauru,5,2025-02-04 14:01:26.600921,350.0
+Notebook Gamer,Assis,2,2025-04-10 14:01:26.600925,4500.0
+Mouse Sem Fio,Marília,3,2024-12-05 14:01:26.600929,120.0
+Notebook Gamer,Marília,1,2025-06-08 14:01:26.600934,4500.0
+Notebook Gamer,Assis,3,2025-06-30 14:01:26.600938,4500.0
+Cadeira Ergonômica,Assis,3,2025-05-01 14:01:26.600943,1200.0
+Cadeira Ergonômica,Marília,3,2025-02-13 14:01:26.600947,1200.0
+Teclado Mecânico,Bauru,3,2025-08-14 14:01:26.600951,350.0
+Headset RGB,Campinas,2,2025-07-13 14:01:26.600955,250.0
+Notebook Gamer,Campinas,4,2025-06-23 14:01:26.600960,4500.0
+Mouse Sem Fio,Assis,5,2025-09-02 14:01:26.600964,120.0
+Monitor 24pol,Campinas,3,2025-02-21 14:01:26.600968,800.0
+Notebook Gamer,Marília,3,2025-05-18 14:01:26.600972,4500.0
+Notebook Gamer,Marília,3,2025-01-05 14:01:26.600976,4500.0
+Teclado Mecânico,Assis,4,2025-04-29 14:01:26.600981,350.0
+Headset RGB,Assis,1,2025-03-19 14:01:26.600985,250.0
+Monitor 24pol,Assis,1,2025-01-09 14:01:26.600989,800.0
+Cadeira Ergonômica,Bauru,2,2025-01-19 14:01:26.600993,1200.0
+Cadeira Ergonômica,Campinas,1,2025-08-20 14:01:26.600998,1200.0
+Mouse Sem Fio,Assis,3,2024-12-08 14:01:26.601002,120.0
+Monitor 24pol,São Paulo,3,2025-07-30 14:01:26.601006,800.0
+Cadeira Ergonômica,São Paulo,3,2025-06-17 14:01:26.601011,1200.0
+Mouse Sem Fio,Marília,2,2025-03-07 14:01:26.601015,120.0
+Headset RGB,Campinas,3,2025-04-22 14:01:26.601019,250.0
+Mouse Sem Fio,Assis,1,2025-09-01 14:01:26.601024,120.0
+Cadeira Ergonômica,São Paulo,4,2025-02-10 14:01:26.601028,1200.0
+Teclado Mecânico,Campinas,4,2025-10-05 14:01:26.601032,350.0
+Teclado Mecânico,Marília,5,2025-04-11 14:01:26.601037,350.0
+Teclado Mecânico,Bauru,1,2025-03-20 14:01:26.601041,350.0
+Cadeira Ergonômica,Campinas,3,2025-02-17 14:01:26.601045,1200.0
+Teclado Mecânico,Campinas,4,2025-02-20 14:01:26.601049,350.0
+Monitor 24pol,Bauru,1,2024-12-27 14:01:26.601053,800.0
+Headset RGB,Campinas,4,2025-05-20 14:01:26.601058,250.0
+Mouse Sem Fio,Marília,3,2025-04-01 14:01:26.601062,120.0
+Mouse Sem Fio,Marília,4,2025-10-14 14:01:26.601066,120.0
+Cadeira Ergonômica,Bauru,5,2025-09-05 14:01:26.601070,1200.0
+Teclado Mecânico,Assis,5,2025-04-29 14:01:26.601074,350.0
+Teclado Mecânico,São Paulo,4,2025-07-14 14:01:26.601079,350.0
+Notebook Gamer,Assis,1,2025-01-18 14:01:26.601083,4500.0
+Headset RGB,Campinas,1,2025-07-25 14:01:26.601087,250.0
+Monitor 24pol,São Paulo,1,2025-09-13 14:01:26.601091,800.0
+Mouse Sem Fio,Bauru,4,2025-03-19 14:01:26.601095,120.0
+Notebook Gamer,Bauru,1,2025-04-05 14:01:26.601100,4500.0
+Notebook Gamer,São Paulo,3,2025-08-11 14:01:26.601104,4500.0
+Cadeira Ergonômica,Marília,5,2025-06-03 14:01:26.601108,1200.0
+Mouse Sem Fio,São Paulo,3,2025-10-25 14:01:26.601112,120.0
+Cadeira Ergonômica,Campinas,1,2025-08-14 14:01:26.601116,1200.0
+Monitor 24pol,Marília,3,2025-08-03 14:01:26.601120,800.0
+Notebook Gamer,Bauru,1,2025-01-04 14:01:26.601125,4500.0
+Notebook Gamer,São Paulo,4,2025-07-04 14:01:26.601129,4500.0
+Headset RGB,Assis,3,2025-11-11 14:01:26.601133,250.0
+Monitor 24pol,Assis,4,2025-05-18 14:01:26.601137,800.0
+Notebook Gamer,Campinas,4,2025-10-17 14:01:26.601141,4500.0
+Monitor 24pol,Assis,2,2025-03-04 14:01:26.601148,800.0
+Mouse Sem Fio,São Paulo,1,2025-04-21 14:01:26.601152,120.0
+Teclado Mecânico,São Paulo,5,2025-04-12 14:01:26.601157,350.0
+Notebook Gamer,Assis,1,2025-02-27 14:01:26.601161,4500.0
+Headset RGB,São Paulo,5,2025-10-03 14:01:26.601166,250.0
+Mouse Sem Fio,Campinas,1,2025-05-27 14:01:26.601170,120.0
+Monitor 24pol,Marília,4,2025-08-24 14:01:26.601174,800.0
+Cadeira Ergonômica,Campinas,3,2025-02-20 14:01:26.601179,1200.0
+Mouse Sem Fio,Campinas,3,2025-07-24 14:01:26.601183,120.0
+Notebook Gamer,São Paulo,2,2024-11-30 14:01:26.601187,4500.0
+Monitor 24pol,Marília,5,2025-11-18 14:01:26.601192,800.0
+Teclado Mecânico,São Paulo,5,2025-05-07 14:01:26.601196,350.0
+Mouse Sem Fio,Bauru,5,2025-10-25 14:01:26.601200,120.0
+Notebook Gamer,São Paulo,4,2025-01-20 14:01:26.601204,4500.0
+Headset RGB,São Paulo,5,2025-04-11 14:01:26.601209,250.0
+Cadeira Ergonômica,São Paulo,3,2025-02-07 14:01:26.601213,1200.0
+Monitor 24pol,Marília,4,2025-01-16 14:01:26.601218,800.0
+Mouse Sem Fio,São Paulo,1,2025-05-22 14:01:26.601223,120.0
+Mouse Sem Fio,Marília,5,2025-02-20 14:01:26.601227,120.0
+Teclado Mecânico,Assis,5,2025-08-07 14:01:26.601231,350.0
+Teclado Mecânico,Bauru,1,2025-06-06 14:01:26.601235,350.0
+Headset RGB,Marília,5,2024-12-20 14:01:26.601239,250.0
+Cadeira Ergonômica,Assis,1,2025-03-07 14:01:26.601244,1200.0
+Headset RGB,Marília,4,2025-05-07 14:01:26.601249,250.0
+Notebook Gamer,Marília,3,2025-11-12 14:01:26.601253,4500.0
+Notebook Gamer,Bauru,1,2025-02-20 14:01:26.601257,4500.0
+Headset RGB,Campinas,2,2024-11-27 14:01:26.601264,250.0
